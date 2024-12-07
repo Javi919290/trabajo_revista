@@ -8,4 +8,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: all;
+    transition-duration: 0.1s;
+
+   
+}
+
+.text2 {
+    display: flex;
+    justify-content: space-between;
 }
