@@ -59,3 +59,15 @@
     height: auto;   
     display: block;
 }
+
+.Gmail {
+    height: 60px;
+}
+
+.Twiter {
+    height: 60px;
+}
+
+.Insta {
+    height: 80px;
+}
