@@ -111,7 +111,7 @@
 
 .contenedor3 {
     background-color: rgb(61, 61, 61);
-    color: #fff; /* Texto blanco */
+    color: #fff;
     text-align: center; /* Centra el texto */
     padding: 100px; /* Espaciado interno */
     margin-left: -10px;
@@ -139,11 +139,15 @@
 } */
 
 .newsletter {
-
+    padding: 10px 20px;      
+    margin: 30px;                      
+    font-size: 16px;         
+    cursor: pointer;        
+    border-radius: 10px;
 }
 
-.Newsletter {
-
+.newsletter.hover {
+    border-radius: 10px; 
 }
 
 .Contacto {
@@ -161,7 +165,6 @@
     justify-content: center;
     max-width: 100%;
     min-width: 100%;
-    
 }
 
 .perfiles {
@@ -182,3 +185,16 @@
     min-width: 100%;
 }
 
+.games {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.news {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    min-width: 100%;
+}
