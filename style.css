@@ -116,6 +116,7 @@
     padding: 100px; /* Espaciado interno */
     margin-left: -10px;
     margin-right: -10px;
+    margin-bottom: -10px;
     box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Sombra en la parte superior */
   }
 
